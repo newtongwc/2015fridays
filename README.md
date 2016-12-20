@@ -1,2 +1,2 @@
-# grace-hopper
+# 2015 Fridays
 Friday afternoon session
